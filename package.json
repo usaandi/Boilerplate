@@ -1,0 +1,24 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Basic html structure and simple navbar",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "styles-dev-watch": "sass --watch sass/:public",
+    "styles": "sass sass/:public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usaandi/Boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usaandi/Boilerplate/issues"
+  },
+  "homepage": "https://github.com/usaandi/Boilerplate#readme",
+  "dependencies": {
+    "sass": "^1.26.10"
+  }
+}
